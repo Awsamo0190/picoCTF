@@ -1,7 +1,5 @@
 # picoCTF Game Log
 
-# Game 1
-
 Catagory: General Skills
 
 Name: FixMe1.py
