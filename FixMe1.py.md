@@ -1,8 +1,8 @@
 # picoCTF Game Log
 
-Catagory: General Skills
+# Catagory: General Skills
 
-Name: FixMe1.py
+# Name: FixMe1.py
 
 Description: Fix the syntax error in this Python script to print the flag.Download Python script  
 
