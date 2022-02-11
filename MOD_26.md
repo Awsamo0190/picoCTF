@@ -12,7 +12,7 @@ Hints:
 Solving Steps:
 1. Googling ROT13
 
-1.1 ROT13 =>  is a simple Caesar cipher used for obscuring text by replacing each letter with the letter thirteen places down the alphabet. 
+   1.1 ROT13 =>  is a simple Caesar cipher used for obscuring text by replacing each letter with the letter thirteen places down the alphabet. 
        Example: HELLO = URYYB
        
 2. Found site: https://rot13.com/
