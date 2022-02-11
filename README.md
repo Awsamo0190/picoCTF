@@ -1,7 +1,11 @@
 # picoCTF Game Log
 
 # Game 1
+
+Catagory: General Skills
+
 Name: FixMe1.py
+
 Description: Fix the syntax error in this Python script to print the flag.Download Python script  
 
 Hints: 
