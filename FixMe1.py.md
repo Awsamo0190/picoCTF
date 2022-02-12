@@ -1,4 +1,4 @@
-# picoCTF Game Log
+# picoCTF
 
 # Catagory: General Skills
 
@@ -15,12 +15,14 @@ Hints:
 Solving Steps: 
 1. Used wget to download fixme1.py
 2. Used python to run script and got error below
+ 
  2.1 
 
 ![image](https://user-images.githubusercontent.com/99389724/153542232-83e11722-8684-4b97-aee1-1115797b9a00.png)
  
 3. Removed the spacing infront of the word "print" and saved changes  
 4. Ran script again
+ 
  4.1 
  
  ![image](https://user-images.githubusercontent.com/99389724/153542271-50a6c0db-fb38-4739-970a-70f0942fd5b3.png)
