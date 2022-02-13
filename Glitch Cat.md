@@ -15,12 +15,12 @@ Solving Steps:
 
 1. Attempted to connect to site with url listed
 
- 1.1 Got "Page isn't working" message with "HTTP:"
- 1.2 Got "Page cannot provide a secure connection." with "HTTPS:"
+    1.1 Got "Page isn't working" message with "HTTP:"
+    1.2 Got "Page cannot provide a secure connection." with "HTTPS:"
 
 2. Checked what "nc" is 
  
- 2.1 Stands for "netcat" which is a utility for connecting and listening over UDP and TCP connections
+   2.1 Stands for "netcat" which is a utility for connecting and listening over UDP and TCP connections
 
 3. Used "man nc" to get more information on the utility 
 4. Used the below commands and got different output 
