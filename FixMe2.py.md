@@ -21,7 +21,9 @@ Fix the syntax error in the Python script to print the flag.Download Python scri
 ![image](https://user-images.githubusercontent.com/99389724/153553762-6ddcb6cb-282e-4052-b095-21c364628b5a.png)
 
 3. Searched Google for and answers to syntax erros 
- 3.1 Found this page: https://discover.cs.ucsb.edu/commonerrors/error/1009.xml
+
+    3.1 Found this page: https://discover.cs.ucsb.edu/commonerrors/error/1009.xml
+
 4. Added a equal sign to the one mentioned
 
     4.1 This made the code understand flag equaled (==) black or empty ("")
