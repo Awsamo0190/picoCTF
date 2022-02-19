@@ -1,6 +1,6 @@
 # picoCTF
 
-# Catagory: General Skills
+# Category: General Skills
 
 # Name: FixMe1.py
 
