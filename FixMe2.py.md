@@ -1,5 +1,7 @@
 # picoCTF
 
+# Catagory: General Skills
+
 # Game: FixMe2.PY
 
 # Description:
