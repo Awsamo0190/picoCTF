@@ -1,6 +1,6 @@
 # picoCTF
 
-# Catagory: Cryptography
+# Category: Cryptography
 
 # Name: MOD 26
 
